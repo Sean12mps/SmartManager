@@ -1,7 +1,7 @@
 
 public abstract class OperatingSystem {
 	
-	public String osName;
+	protected String osName;
 	
 	public OperatingSystem() {
 	}
